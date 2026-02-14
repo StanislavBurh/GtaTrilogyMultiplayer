@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DefinitiveEditionMultiplayer
+- 👋 Hi, I’m Stanislav
 
 <!---
 GtaTrilogyMultiplayer/GtaTrilogyMultiplayer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
